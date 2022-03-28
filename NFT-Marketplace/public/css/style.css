@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-bottom: 0px;
+}
+
+.navbar-trendz {
+    background-color: #fcf8ec;
+    font-family: Raleway;
+    color: #456268;
+}
+
+.nav-trendz {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #456268;
+}
+
+.navbar-light {
+    color: #456268 !important;
+}
+
+.btn-trendz-login {
+    background-color: #456268;
+}
+
+.btn-trendz-register {
+    border: 1px solid #456268;
+}
+
+:hover.btn-trendz-register {
+    color: #fcf8ec !important;
+    background-color: #456268;
+}
+
+.btn-outline-search {
+    font-size: 18px;
+    font-family: Raleway;
+    color: #456268;
+    border: 1px solid #456268;
+}
+
+:hover.btn-outline-search {
+    color: #fcf8ec;
+    background-color: #456268;
+}
+
+.nav-trendz-login {
+    font-size: 18px;
+    color: #fcf8ec !important;
+    font-family: Raleway;
+}
+
+.nav-trendz-register {
+    font-size: 18px;
+    color: #456268 !important;
+    font-family: Raleway;
+}
+
+.nav-link {
+    color: #456268;
+}
+
+.trendz-homepage {
+    background-color: #fcf8ec;
+}
+
+.trendz-title {
+    color: #456268;
+    font-size: 45px;
+    font-family: Raleway;
+}
+
+.trendz-sub-title {
+    color: #456268;
+    font-size: 24px;
+    font-family: Raleway;
+}
+
+.trendz-home-img {
+    min-width: 680px;
+}
+
+.explore-button {
+    font-size: 30px;
+    color: #fcf8ec !important;
+    background-color: #456268;
+    font-family: Raleway;
+}
+
+.NFT-button {
+    font-size: 30px;
+    color: #fcf8ec !important;
+    background-color: #456268;
+    font-family: Raleway;
+    margin: 10rem;
+}
