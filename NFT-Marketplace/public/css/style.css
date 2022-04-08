@@ -98,3 +98,166 @@ body {
     font-family: Raleway;
     margin: 10rem;
 }
+
+/**NFT Marketplace Login Section**/
+.login-background {
+    background-color: #fcf8ec;
+}
+
+.login-header {
+    font-size: 28px;
+    font-family: Raleway;
+    color: #fcf8ec;
+    background-color: #456268;
+}
+
+.login-email-address {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+.login-password {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.remember-me {
+    font-size: 16px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.login-button {
+    font-size: 18px;
+    color: #fcf8ec !important;
+    background-color: #456268;
+    font-family: Raleway;
+    border: none;
+}
+
+:hover.login-button {
+    color: #454545 !important;
+    background-color: #fcf8ec;
+    border: #454545 !important;
+}
+
+.forget-password-link {
+    font-family: Raleway;
+    color: #454545;
+}
+
+.dont-have-account-link {
+    font-size: 16px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.register-link {
+    font-size: 16px;
+    font-family: Raleway;
+    color: #454545;
+    text-decoration: none;
+}
+
+/** End of NFT Marketplace Login Section**/
+
+/**NFT Marketplace Register Section**/
+
+.register-background {
+    background-color: #fcf8ec;
+}
+
+.register-header {
+    font-size: 28px;
+    font-family: Raleway;
+    color: #fcf8ec;
+    background-color: #456268;
+}
+
+.register-name {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.register-email-address {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+.register-password {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.register-button {
+    font-size: 18px;
+    color: #fcf8ec !important;
+    background-color: #456268;
+    font-family: Raleway;
+    border: none;
+}
+
+:hover.register-button {
+    color: #454545 !important;
+    background-color: #fcf8ec;
+    border: #454545 !important;
+}
+
+/** End of NFT Marketplace Register Section**/
+
+/**NFT Marketplace Rest Password Section**/
+
+.reset-password-background {
+    background-color: #fcf8ec;
+}
+
+.reset-password-header {
+    font-size: 28px;
+    font-family: Raleway;
+    color: #fcf8ec;
+    background-color: #456268;
+}
+
+.reset-password-password {
+    font-size: 20px;
+    font-family: Raleway;
+    color: #454545;
+}
+
+.reset-password-button {
+    font-size: 18px;
+    color: #fcf8ec !important;
+    background-color: #456268;
+    font-family: Raleway;
+    border: none;
+}
+
+:hover.reset-password-button {
+    color: #454545 !important;
+    background-color: #fcf8ec;
+    border: #454545 !important;
+}
+
+/**End of NFT Marketplace Rest Password Section**/
+
+/**NFT Marketplace Logging in a User Account**/
+.user-background {
+    background-color: #fcf8ec;
+}
+
+.user-header {
+    font-size: 28px;
+    font-family: Raleway;
+    color: #fcf8ec;
+    background-color: #456268;
+}
+
+.user-text {
+    font-size: 16px;
+    font-family: Raleway;
+    color: #456268;
+}
+/**End of NFT Marketplace Logging in a User Account*/
